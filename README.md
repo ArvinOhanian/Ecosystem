@@ -1,15 +1,15 @@
 # Ecosystem
-  ###An Ecosystem built in Unity that simulates evolution using reinforcement machine learning
+  ### An Ecosystem built in Unity that simulates evolution using reinforcement machine learning
   
-  ###C# Unity code can be found in Ecosystem\Assets\Ecosystem\Scripts
+  ### C# Unity code can be found in Ecosystem\Assets\Ecosystem\Scripts
   
-  ###All Unity assets are custom made for this project in blender and can be found in Ecosystem\Assets\Ecosystem\Meshes
+  ### All Unity assets are custom made for this project in blender and can be found in Ecosystem\Assets\Ecosystem\Meshes
   
-  ####**How the project works in its current state:**
+  #### **How the project works in its current state:**
   
   At the moment, the project has a single rabbit spawn in an area along with a few bushes, trees, and rocks. The rabbit must learn to find bushes to eat in the shortest amount of time. The rabbit's brain is a machine learning neural network that is able to learn the optimal way to find bushes.
   
-  ####***Future goals:**
+  #### ***Future goals:**
   
   The next step in this project is to have a multi-day simulation that will enable the rabbit population to grow each day depending on how many bushes each rabbit can eat. The addition of a multi-day system will also enable the implementation of a mutation system where every time a rabbit gives birth, its offspring have a random chance to slightly change their attributes. Tools for tracking rabbit population over time will also need to be created.
   
