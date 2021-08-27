@@ -18,3 +18,7 @@
   Eventually, the final goal as of now for this project will be to implement a mutation system for the neural network of each animal. Rather than evolving attributes like speed, sight, and height, this final step of the project will aim to provide a way for the brain complexity of animals to change over time so that we can have a better picture of when more or less intelligence evolves. What situations warrant the extra energy usage that a large brain demands? Which animals will evolve to have larger brains and which will opt for less demanding and simple brains? At this stage in the project, the goal will be to study what environmental factors determine the intelligence of organisms and could be an informative look into what led humans to become more intelligent. Additionally, we could use this simulation to estimate how likely it is for highly intelligent organisms to evolve. Will super intelligent organisms evolve once every 100 simulations? 1,000? 1,000,000? How rare is super intelligence and how common should we expect it to be in our own universe?
 
 
+### Images from Current Simulation
+![image](https://user-images.githubusercontent.com/34993121/131057704-f604988a-8610-4b51-a26c-6ac9c9cb7a5c.png)
+
+
