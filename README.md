@@ -28,8 +28,15 @@
 
 ![image](https://user-images.githubusercontent.com/34993121/131058215-99d96d6f-c6a3-4b12-9e19-571ba0e53036.png)
 
+**Rabbit before learning how to find and eat berries**
+
+![Rabbit train GIF](https://user-images.githubusercontent.com/34993121/146284361-d1f2ca19-678d-44c2-8522-535876dcb77b.gif)
+
+Notice how it is constantly running in circles or hitting the edge of the envionment, but will occasionally get lucky and find a berry bush to eat.
+
 **Rabbit after learning how to find and eat berries**
 
 ![Rabbit GIF](https://user-images.githubusercontent.com/34993121/146282895-7390ef6a-b13f-487f-b689-32b452257f6c.gif)
 
+Now that the rabbit has learned to eat the berries, it immediately runs towards them once it has detected one. Also notice that the rabbit does small 'jiggles' before it finds a berry bush. This behavior was learned and allows the rabbit to quickly scan ahead of it in a wider area compared to just going staright, minimizing the time it takes to find a berry bush. A really cool behavior that I would have never thought to do!
 
