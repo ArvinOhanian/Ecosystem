@@ -7,7 +7,7 @@
   
   #### **How the project works in its current state:**
   
-  At the moment, the project has a single rabbit spawn in an area along with a few bushes, trees, and rocks. The rabbit must learn to find bushes to eat in the shortest amount of time. The rabbit's brain is a machine learning neural network that is able to learn the optimal way to find bushes.
+  At the moment, the project has a single rabbit spawn in an area along with a few bushes, trees, and rocks. The rabbit must learn to find bushes to eat in the shortest amount of time. The rabbit's brain is a machine learning neural network that is able to learn the optimal way to find berry bushes.
 
 ### Images from Current Simulation
 
